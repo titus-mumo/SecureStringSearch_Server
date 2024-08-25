@@ -1,0 +1,1 @@
+SecureStringSearch Server is a high-performance TCP server for securely searching exact string matches in a large text file. It supports SSL/TLS encryption and handles multiple concurrent client requests with multithreading, offering both dynamic file reloading and caching options.
